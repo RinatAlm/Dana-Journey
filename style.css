@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;  /* по горизонтали */
+  align-items: center;      /* по вертикали */
+  height: 100vh;
+}
+
+.text {
+  font-size: 24px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
